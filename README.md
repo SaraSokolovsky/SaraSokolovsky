@@ -91,10 +91,10 @@ Docker: Beginner | Git: Proficient | Postman: Proficient | Swagger: Proficient |
 - [---] -->
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TziporaRinaWinter&show_icons=true&hide_title=true&count_private=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaraSokolovsky&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
 ## 📊 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TziporaRinaWinter&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaraSokolovsky&layout=compact&theme=radical)
 
 ## ✨ Featured Projects
 
