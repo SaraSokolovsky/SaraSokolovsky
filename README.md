@@ -97,12 +97,8 @@ Docker: Beginner | Git: Proficient | Postman: Proficient | Swagger: Proficient |
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaraSokolovsky&layout=compact&theme=radical)
 
 ## ✨ Featured Projects
-###### [AngularProject](https://github.com/TziporaRinaWinter/AngularProject) - An application for managing the placement of volunteers for transportation
-
-###### [API-project](https://github.com/TziporaRinaWinter/API-project) - Pizza Shop Management Web API in ASP.NET Core
-
-###### [library-project](https://github.com/TziporaRinaWinter/library-project) - Library Management System - Java application for managing a library's book and customer database using Hibernate, Servlets, and JAX-RS for efficient database interaction and RESTful API creation.
-
-###### [audio-jumping](https://github.com/TziporaRinaWinter/audio-jumping) - JavaScript project for audio manipulation.
-
-###### [Node.js-project](https://github.com/TziporaRinaWinter/Node.js-project) - A Node.js server-side application for coordinating volunteer assistance requests.
+###### [projectPython](https://github.com/SaraSokolovsky/projectPython) - An application for icons search.
+###### [project-mongodb-python-react](https://github.com/SaraSokolovsky/project-mongodb-python-react) - A small project connecting MongoDB, Python, and React.
+###### [giftCal]((https://github.com/SaraSokolovsky/giftCal)) - Promotional website for GiftCal - a gift for the bride and groom on their wedding day.
+###### [angular-connect-to-api](https://github.com/SaraSokolovsky/project-angular-connect-to-api) - An application for managing the placement of volunteers for transportation.
+###### [javaLibrary](https://github.com/SaraSokolovsky/javaLibrary) -  Library Management System - Java application for managing a library's book and customer database using Hibernate, Servlets, and JAX-RS for efficient database interaction and RESTful API creation.
